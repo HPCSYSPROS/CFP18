@@ -1,5 +1,5 @@
-HPC Systems Professionals Workshop(HPCSYSPROS18) CFP
-
+HPC Systems Professionals Workshop(HPCSYSPROS18) Call For Papers (and artifacts)
+--------------- 
 HPCSYSPROS 18 is held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.  
 
 Submission Deadline - August 20th
@@ -43,15 +43,15 @@ New Types of Submissions
 
 * System Configuration and Configuration Management should include configuration or configuration management and/or the interactions between multiple configured applications. Examples of this may be a puppet module, a config file used in a unique way, or more likely a group of config files and configuration management bundled together. Strong documentation for reproducing the artifact as well as a two page abstract in the SC proceedings format is required.
 
-Proposals for different types of artifacts than what have been listed will also be accpeted. If there is a type of artifact that is not listed that is high-quality with an emphasis on reproducibility and implementation, then please propose it to the committee. If the committee agreesi, the CFP will be amended to reflect the new artifact and it's requrirements.
+Proposals for different types of artifacts than what have been listed will also be accpeted. If there is a type of artifact that is not listed that is high-quality with an emphasis on reproducibility and implementation, then please propose it to the committee. If the committee agrees, the CFP will be amended to reflect the new artifact and it's requrirements. The up-to-date CFP will always be available at https://github.com/HPCSYSPROS/CFP18.
 
 All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in pdf form as well as an accompying zip (or gzip) file. All reviews and comments will be available by logging in at http://submissions.supercomputing.org. 
 
 
 Important Dates 
 -------------------- 
-Submissions open - April 9th  
-Submissions closed - August 19th   
+Submissions Open - April 9th  
+Submissions Closed - August 19th   
 Reviews Sent and Resubmission Open - September 7th  
 Resubmission Closed - September 28th  
 Notifications of Accepted Artifacts - October 12th  
