@@ -1,4 +1,5 @@
-HPC Systems Professionals Workshop (HPCSYSPROS18) Call For Papers (and artifacts)
+HPC Systems Professionals Workshop (HPCSYSPROS18)  
+Call For Papers (and artifacts)
 --------------- 
 HPCSYSPROS18 is held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.  
 
