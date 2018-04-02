@@ -31,10 +31,13 @@ Submission Information
 ---------------
 Authors are invited to submit original, high-quality papers and artifacts with an emphasis on solutions that can be implemented by other members of the HPC systems community.
 
-Papers should be submitted in PDF format and should be between 6 and 8 pages including tables, figures and appendices, but excluding references and reproducibility appendicies. Artifacts should also include abstracts and descriptions from 2-4 pages depending on type, along with other materials. All new submission type requirements are listed below. All papers and abstracts should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18. Papers and Artifacts will be published on Github and archived with a DOI in Zenodo. A sample template specific to the workshop is provided here:
+Papers should be submitted in PDF format and should be between 6 and 8 pages including tables, figures and appendices, but excluding references and reproducibility appendicies. Artifacts should also include abstracts and descriptions from 2-4 pages depending on type, along with other materials. All new submission type requirements are listed below. 
+
+All papers and abstracts should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18. A sample template specific to the workshop is provided here:
 
 OVERLEAF LINK HERE
 
+All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in pdf form as well as an accompying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on Github and archived with a DOI in Zenodo.
 
 New Types of Submissions
 ---------------
@@ -49,11 +52,6 @@ Proposals for different types of artifacts than what have been listed will also 
 
 Committee contact: contact@hpcsyspros.org  
 The up-to-date CFP will always be available at https://github.com/HPCSYSPROS/CFP18.
-
-Submissions
----------------
-All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in pdf form as well as an accompying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. 
-
 
 Important Dates 
 -------------------- 
