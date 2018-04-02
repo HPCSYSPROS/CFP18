@@ -1,16 +1,17 @@
-HPC Systems Professionals Workshop(HPCSYSPROS18) Call For Papers (and artifacts)
+HPC Systems Professionals Workshop (HPCSYSPROS18) Call For Papers (and artifacts)
 --------------- 
-HPCSYSPROS 18 is held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.  
+HPCSYSPROS18 is held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.  
 
 Submission Deadline - August 20th
+
+Supercomputing systems present complex challenges to personnel who design, deploy and maintain these systems. Standing up these systems and keeping them running require novel solutions that are unique to high performance computing. The success of any supercomputing center depends on stable and reliable systems, and HPC Systems Professionals are crucial to that success.
+
+The Third Annual HPC Systems Professionals Workshop will bring together systems administrators, systems architects, and systems analysts in order to share best practices, discuss cutting-edge technologies, and advance the state-of-the-practice for HPC systems. This year we will change the format of submissions as well as the submission timeline. While papers will still be suitable for submission we will also be opening the submission proccess to a few different types of artifacts in an effort to align the submissions with the professional discipline of HPC Systems.
 
 Contact: contact@hpcsyspros.org  
 Workshop Website: http://hpcsyspros.org/  
 Submissions Website:  http://hpcsyspros.org/submit  
 
-Supercomputing systems present complex challenges to personnel who design, deploy and maintain these systems. Standing up these systems and keeping them running require novel solutions that are unique to high performance computing. The success of any supercomputing center depends on stable and reliable systems, and HPC Systems Professionals are crucial to that success.
-
-The Third Annual HPC Systems Professionals Workshop will bring together systems administrators, systems architects, and systems analysts in order to share best practices, discuss cutting-edge technologies, and advance the state-of-the-practice for HPC systems. This year we will change the format of submissions as well as the submission timeline. While papers will still be suitable for submission we will also be opening the submission proccess to a few different types of artifacts in an effort to align the submissions with the professional discipline of HPC Systems.
 
 Topics of Interest 
 --------------- 
@@ -43,9 +44,14 @@ New Types of Submissions
 
 * System Configuration and Configuration Management should include configuration or configuration management and/or the interactions between multiple configured applications. Examples of this may be a puppet module, a config file used in a unique way, or more likely a group of config files and configuration management bundled together. Strong documentation for reproducing the artifact as well as a two page abstract in the SC proceedings format is required.
 
-Proposals for different types of artifacts than what have been listed will also be accpeted. If there is a type of artifact that is not listed that is high-quality with an emphasis on reproducibility and implementation, then please propose it to the committee. If the committee agrees, the CFP will be amended to reflect the new artifact and it's requrirements. The up-to-date CFP will always be available at https://github.com/HPCSYSPROS/CFP18.
+Proposals for different types of artifacts than what have been listed will also be accpeted. If you have a type of artifact that is not listed that is relevant, high-quality  and has an emphasis on reproducibility and implementation, then please propose it to the committee. If the committee agrees, the CFP will be amended to reflect the new artifact and it's requrirements. 
 
-All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in pdf form as well as an accompying zip (or gzip) file. All reviews and comments will be available by logging in at http://submissions.supercomputing.org. 
+Committee contact: contact@hpcsyspros.org  
+The up-to-date CFP will always be available at https://github.com/HPCSYSPROS/CFP18.
+
+Submissions
+---------------
+All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in pdf form as well as an accompying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. 
 
 
 Important Dates 
