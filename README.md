@@ -1,5 +1,6 @@
-HPC Systems Professionals Workshop - HPCSYSPROS18  
-Held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.  
+HPC Systems Professionals Workshop(HPCSYSPROS18) CFP
+
+HPCSYSPROS 18 is held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.  
 
 Submission Deadline - August 20th
 
@@ -49,10 +50,8 @@ All submissions should be submitted electronically through the supercomputing li
 
 Important Dates 
 -------------------- 
-Submissions open - April 9th
-Submissions closed - August 19th 
-Reviews Sent and Resubmission Open - September 7th
-Resubmission Closed - September 28th 
-Notifications of Accepted Artifacts - October 12th
-
-
+Submissions open - April 9th  
+Submissions closed - August 19th   
+Reviews Sent and Resubmission Open - September 7th  
+Resubmission Closed - September 28th  
+Notifications of Accepted Artifacts - October 12th  
