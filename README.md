@@ -1,11 +1,11 @@
-HPC Systems Professionals Workshop - HPCSYSPROS18 
-Held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.
+HPC Systems Professionals Workshop - HPCSYSPROS18  
+Held in conjunction with SC18: The International Conference on High Performance Computing, Networking, Storage and Analysis.  
 
 Submission Deadline - August 20th
 
-Contact: contact@hpcsyspros.org
-Workshop Website: http://hpcsyspros.org/
-Submissions Website:  http://hpcsyspros.org/submit
+Contact: contact@hpcsyspros.org  
+Workshop Website: http://hpcsyspros.org/  
+Submissions Website:  http://hpcsyspros.org/submit  
 
 Supercomputing systems present complex challenges to personnel who design, deploy and maintain these systems. Standing up these systems and keeping them running require novel solutions that are unique to high performance computing. The success of any supercomputing center depends on stable and reliable systems, and HPC Systems Professionals are crucial to that success.
 
