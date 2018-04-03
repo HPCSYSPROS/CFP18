@@ -40,16 +40,14 @@ Authors are invited to submit original, high-quality papers with an emphasis on 
 
 Adding types of submissions can introduce some uncertainty to the submission process. To counteract this uncertainty, there will be a two-stage submission process. During the first stage, all submissions will get reviewed and scored but there will be no decisions for inclusion in the program. The authors will then have three weeks to update their submission based on provided feedback, and resubmit. The second round will be review and scored, and the highest-scoring submissions will be invited to be included within the workshop program.
 
-All papers and abstracts should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18. A sample template specific to the workshop is provided here:
+Proposals for different types of artifacts than those listed above will also be accepted. If you have a relevant, high-quality artifact, which has an emphasis on reproducibility and implementation, and is not included in the types above, please propose it to the committee (contact info below) . If the committee agrees, the CFP will be amended to reflect the new artifact type and its requirements.  The up-to-date CFP will always be available at https://github.com/HPCSYSPROS/CFP18.
+
+All papers, abstracts and descriptions should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18. A sample template specific to the workshop is provided here:
 
 OVERLEAF LINK HERE
 
 All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in pdf form, as well as an accompanying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on Github and archived with a DOI in Zenodo.
 
-
-Proposals for different types of artifacts than those listed above will also be accepted. If you have a relevant, high-quality artifact, which has an emphasis on reproducibility and implementation, and is not included in the types above, please propose it to the committee (contact info below) . If the committee agrees, the CFP will be amended to reflect the new artifact type and its requirements. 
-
-The up-to-date CFP will always be available at https://github.com/HPCSYSPROS/CFP18.
 
 
 Important Dates 
@@ -66,6 +64,9 @@ Workshop Information
 
 Committee Contact: contact@hpcsyspros.org  
 Website: http://hpcsyspros.org  
-Submission Site: http://hpcsyspros.org/submit  
 Updated CFP: https://github.com/HPCSYSPROS/CFP18  
+Submission Site: http://hpcsyspros.org/submit   
+or  
+https://submissions.supercomputing.org/?page=Submit&id=SC18Workshop:HPCSYSPROS18FirstSubmission&site=sc18
+
 
