@@ -29,9 +29,9 @@ Topics of interest include, but are not limited to:
 
 Submission Information
 ---------------
-Authors are invited to submit original, high-quality papers and artifacts with an emphasis on solutions that can be implemented by other members of the HPC systems community.
+Authors are invited to submit original, high-quality papers and artifacts with an emphasis on solutions that can be implemented by other members of the HPC systems community. Papers should be submitted in PDF format and should be between 6 and 8 pages including tables, figures and appendices, but excluding references and reproducibility appendicies. Artifacts should also include abstracts and descriptions from 2-4 pages depending on type, along with other materials. All new submission type requirements are listed below. 
 
-Papers should be submitted in PDF format and should be between 6 and 8 pages including tables, figures and appendices, but excluding references and reproducibility appendicies. Artifacts should also include abstracts and descriptions from 2-4 pages depending on type, along with other materials. All new submission type requirements are listed below. 
+The change to the types of submission can introduce some uncertainty. To counter-act the uncertainty, there will be a two stage submission process. During the first stage all submissions will get reviewed and scored but there will be no decisions for inclusion in the program. The authors will then have three weeks to update their submission based on the feedback and resubmit. The second round will be review and scored and the highest-scoring submissions will be invited to be included within the workshop program.
 
 All papers and abstracts should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18. A sample template specific to the workshop is provided here:
 
@@ -59,4 +59,4 @@ Submissions Open - April 9th
 Submissions Closed - August 19th   
 Reviews Sent and Resubmission Open - September 7th  
 Resubmission Closed - September 28th  
-Notifications of Accepted Artifacts - October 12th  
+Notifications of Papers and Accepted Artifacts - October 12th  
