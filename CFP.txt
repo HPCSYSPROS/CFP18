@@ -47,7 +47,7 @@ All papers, abstracts and descriptions should be formatted according to the IEEE
 
 OVERLEAF LINK HERE
 
-All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in pdf form, as well as an accompanying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on Github and archived with a DOI in Zenodo.
+All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in PDF form, as well as an accompanying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on GitHub and archived with a DOI in Zenodo.
 
 
 
