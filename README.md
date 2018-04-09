@@ -50,19 +50,19 @@ https://raw.githubusercontent.com/HPCSYSPROS/ArtifactDescriptor18/master/HPCSYSP
 A sample template specific to the workshop is provided here:  
 OVERLEAF LINK HERE
 
-All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in PDF form, as well as an accompanying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on GitHub and archived with a DOI in Zenodo.
+All submissions should be submitted electronically through the SC18 linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in PDF form, as well as an accompanying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on GitHub and archived with a DOI in Zenodo.
 
 
 
 Important Dates 
 -------------------- 
-Submissions Open: April 9th
-Submissions Closed: August 19th (NO EXTENSIONS)
-Reviews Sent and Resubmission Open: September 7th  
-Resubmission Closed: September 27th  
-Notifications of Papers and Accepted Artifacts: October 12th
-Final Abstracts for Program: October 14th
-Workshop Date: TBA; One of the mornings of Sunday, November 11, Monday, November 12, or Friday, November 16, 2018.
+Submissions Open: April 9th  
+Submissions Closed: August 19th (NO EXTENSIONS)  
+Reviews Sent and Resubmission Open: September 7th   
+Resubmission Closed: September 27th   
+Notifications of Papers and Accepted Artifacts: October 12th  
+Final Abstracts for Program: October 14th  
+Workshop Date: TBA; One of the mornings of Sunday, November 11, Monday, November 12, or Friday, November 16, 2018
 
 Workshop Information
 -------------------- 
