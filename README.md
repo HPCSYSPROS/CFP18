@@ -41,10 +41,13 @@ Authors are invited to submit original, high-quality papers or artifacts with an
 
 Adding types of submissions can introduce some uncertainty to the submission process. To counteract this uncertainty, there will be a two-stage submission process. During the first stage, all submissions, papers and artifacts, will get reviewed and scored but there will be no decisions for inclusion in the program. The authors will then have three weeks to update their submission based on provided feedback, and resubmit. The second round will be reviewed and scored, and the highest-scoring submissions, papers or artifacts, will be invited to be included within the workshop program.  
 
-Proposals for different types of artifacts than those listed above will also be accepted. Additionally, hybrids of these types of artifacts are acceptable. If you have a relevant, high-quality artifact, which has an emphasis on reproducibility and implementation, and is not included in the types above, please propose it to the committee (contact info below) . If the committee agrees, the CFP will be amended to reflect the new artifact type and its requirements.  The up-to-date CFP will always be available at https://github.com/HPCSYSPROS/CFP18.
+Proposals for different types of artifacts than those listed above will also be accepted. Additionally, hybrids of these types of artifacts are acceptable. If you have a relevant, high-quality artifact, which has an emphasis on reproducibility and implementation, and is not included in the types above, please propose it to the committee (contact info below) . If the committee agrees, the CFP will be amended to reflect the new artifact type and its requirements.  The up-to-date CFP will always be available at:  
+https://github.com/HPCSYSPROS/CFP18
 
-All papers, abstracts and descriptions should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18. A sample template specific to the workshop is provided here:
+All papers, abstracts and descriptions should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18 which can be found at:   
+https://raw.githubusercontent.com/HPCSYSPROS/ArtifactDescriptor18/master/HPCSYSPROS18Appendix.tex 
 
+A sample template specific to the workshop is provided here:  
 OVERLEAF LINK HERE
 
 All submissions should be submitted electronically through the supercomputing linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in PDF form, as well as an accompanying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on GitHub and archived with a DOI in Zenodo.
