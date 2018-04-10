@@ -47,8 +47,8 @@ https://github.com/HPCSYSPROS/CFP18
 All papers, abstracts and descriptions should be formatted according to the IEEE Conference Proceedings template and are required to include a modified reproducibility appendix from SC18 which can be found at:   
 https://raw.githubusercontent.com/HPCSYSPROS/ArtifactDescriptor18/master/HPCSYSPROS18Appendix.tex 
 
-A sample template specific to the workshop is provided here:  
-OVERLEAF LINK HERE
+A sample template specific to the workshop in Overleaf is provided here:  
+https://www.overleaf.com/latex/templates/hpcsyspros18-paper-slash-description-template/pckhnxzxsfvd
 
 All submissions should be submitted electronically through the SC18 linklings instance forwarded from http://hpcsyspros.org/submit. Please submit the main document (paper or abstract) in PDF form, as well as an accompanying zip (or gzip) file. All reviews and comments will be available on http://submissions.supercomputing.org. All accepted papers and artifacts will be published on GitHub and archived with a DOI in Zenodo.
 
