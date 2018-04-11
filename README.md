@@ -62,7 +62,7 @@ Reviews Sent and Resubmission Open: September 7th
 Resubmission Closed: September 27th   
 Notifications of Papers and Accepted Artifacts: October 12th  
 Final Abstracts for Program: October 14th  
-Workshop Date: TBA; One of the mornings of Sunday, November 11, Monday, November 12, or Friday, November 16, 2018
+Workshop Date: Sunday, November 11th
 
 Workshop Information
 -------------------- 
