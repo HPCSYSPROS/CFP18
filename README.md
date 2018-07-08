@@ -62,7 +62,7 @@ Reviews Sent and Resubmission Open: September 7th
 Resubmission Closed: September 27th   
 Notifications of Papers and Accepted Artifacts: October 12th  
 Final Abstracts for Program: October 14th  
-Workshop Date: Sunday, November 11th
+Workshop: Sunday, November 11th, 2pm - 5:30pm
 
 Workshop Information
 -------------------- 
